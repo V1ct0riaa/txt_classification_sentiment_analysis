@@ -1,0 +1,4 @@
+Sumber dataset: https://www.kaggle.com/datasets/anggapurnama/twitter-dataset-ppkm
+Jumlah total data: 71,374
+Jumlah kelas: 3 (0=Positive, 1=Neutral, 2=Negative)
+Deskripsi singkat isi dataset: Dataset berisi 71,374 tweets bahasa Indonesia tentang opini masyarakat terhadap kebijakan PPKM (Pemberlakuan Pembatasan Kegiatan Masyarakat) yang dikumpulkan dari April 2020 hingga April 2022. Dataset ini mencakup beragam pendapat, komentar, dan reaksi publik terkait kebijakan PPKM selama periode pandemi COVID-19 di Indonesia.

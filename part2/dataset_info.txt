@@ -1,0 +1,5 @@
+Sumber dataset: https://www.kaggle.com/datasets/farhan999/tokopedia-product-reviews
+Jumlah total data: 40,607
+Jumlah kategori: 5 (pertukangan, fashion, elektronik, handphone, olahraga)
+Deskripsi langsung dari penyedia datasetnya: 
+Kumpulan data ini berisi 40.607 ulasan produk dari Tokopedia, salah satu platform e-commerce terbesar di Indonesia, yang dikumpulkan pada tahun 2019. Kumpulan data ini memberikan wawasan berharga tentang sentimen pelanggan dan perilaku belanja di pasar e-commerce Indonesia.
